@@ -10,7 +10,7 @@ By default the algorithm passes through each node only once, so no "cyclic" solu
 For detailed usage information run solver.py. Start.bat launches the GUI, which requires wxPython installed on your computer.
 
 Usage (cmd line)
------
+------
 
 python solver.py -filename=graph.xml
 
