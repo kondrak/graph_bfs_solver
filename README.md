@@ -1,4 +1,4 @@
-graph_bfs_solver
+BFS graph solver
 ============
 
 Solver utility for The Graph Game prototype. I can't post it here, but checkout http://www.gameshot.org/?id=4147 to get the idea what it's all about.
