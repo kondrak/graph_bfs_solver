@@ -15,3 +15,8 @@ Usage (cmd line)
 <code>python solver.py -filename=graph.xml</code>
 
 where: graph.xml - contains a graph representation in xml format
+
+or simply run:
+<code>python solver.py</code>
+
+for a proper help message.
