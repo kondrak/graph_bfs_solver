@@ -12,6 +12,6 @@ For detailed usage information run solver.py. Start.bat launches the GUI, which 
 Usage (cmd line)
 ------
 
-python solver.py -filename=graph.xml
+<code>python solver.py -filename=graph.xml</code>
 
 where: graph.xml - contains a graph representation in xml format
