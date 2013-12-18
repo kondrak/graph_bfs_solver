@@ -1,5 +1,5 @@
-#  *** Level solver for The Awesome Graph Game ***
-#  (c) Krzysztof Kondrak (at) game-lion (dot) com
+#  *** BFS Graph Solver ***
+#  (c) Krzysztof Kondrak (at) gmail (dot) com
 import sys
 import os
 import itertools
